@@ -4,7 +4,7 @@
 * [Chapter 8 Optimization](chapter-8-optimization/README.md)
   * [8.1 Optimization Overview](chapter-8-optimization/8.1-optimization-overview.md)
   * [8.2 Optimizing SQL Statements](chapter-8-optimization/8.2-optimizing-sql-statements.md)
-    * [8.2.1 Optimizing SELECT Statements](chapter-8-optimization/8.2-optimizing-sql-statements/optimizing-select-statements.md)
+    * [8.2.1 Optimizing SELECT Statements](chapter-8-optimization/8.2-optimizing-sql-statements/8.2.1-optimizing-select-statements.md)
         * [8.2.1.1 WHERE Clause Optimization](chapter-8-optimization/8.2-optimizing-sql-statements/8.2.1-Optimizing-SELECT-statements/8.2.1.1 WHERE Clause Optimization.md)
         * [8.2.1.2 Range Optimization](chapter-8-optimization/8.2-optimizing-sql-statements/8.2.1-Optimizing-SELECT-statements/8.2.1.2 Range Optimization.md)
         * [8.2.1.3 Index Merge Optimization](chapter-8-optimization/8.2-optimizing-sql-statements/8.2.1-Optimizing-SELECT-statements/8.2.1.3 Index Merge Optimization.md)
